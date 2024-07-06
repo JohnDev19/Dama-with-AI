@@ -10,7 +10,7 @@
 - Easy-to-use controls.
 
 ## Screenshot
-![Dama with AI](screenshot.png)
+![Dama with AI](IMG_20240706_133143.jpg)
 
 ## Installation
 1. Clone the repository:
