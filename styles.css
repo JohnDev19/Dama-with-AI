@@ -165,3 +165,22 @@ button:hover {
         height: 40px;
     }
 }
+
+@media (min-width: 601px) {
+    .game-container {
+        padding: 20px;
+    }
+
+    h1 {
+        font-size: 3em;
+    }
+
+    #level-display, #score-container {
+        font-size: 1.5em;
+    }
+
+    .cell {
+        width: 60px;
+        height: 60px;
+    }
+}
